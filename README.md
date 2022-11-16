@@ -2,12 +2,7 @@
 <p align="center">
     <a href="https://www.terrarebels.net/"><img src="https://cdn.jim-nielsen.com/macos/512/swift-playgrounds-2020-02-14.png" align="center" width=150/></a>
 </p>
-<div align="center">
-  <sub><em>TerraRebels</em></sub>
-  <sub><em>United We Stand</em></sub>
-</div>
 
-<p>&nbsp;</p>
 <p align="center">
 The Official Swift SDK for the Terra Ecosystem (LUNC/USTC/LUNA2)
 </p>
