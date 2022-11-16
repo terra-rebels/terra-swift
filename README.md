@@ -24,9 +24,9 @@ The Official Swift SDK for the Terra Ecosystem (LUNC/USTC/LUNA2)
   <br/>
   <a href="https://github.com/terra-rebels/terra-sharp/tree/master/TerraSharp.Maui.Example">Example App</a>
   ·
-  <a href="https://terra-rebels.github.io/terra-sharp/TerraSharp/Documentation/html/index.html">API Reference</a>
+  <a href="https://terra-rebels.github.io/terra-sharp/TerraSharp/Documentation/html/index.html">API Documentation</a>
   ·
-  <a href="https://www.nuget.org/packages/TerraSharp">Nuget Package</a>
+  <a href="https://www.nuget.org/packages/TerraSharp">CocoaPods</a>
   ·
   <a href="https://github.com/terra-rebels/Terra-Sharp">GitHub</a>
 </p>
