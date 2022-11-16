@@ -1,6 +1,6 @@
 
 <p align="center">
-    <a href="https://www.terrarebels.net/"><img src="https://github.com/terra-rebels/terra-sharp/blob/master/TerraSharp/TerraRebels.png" align="center" width=150/></a>
+    <a href="https://www.terrarebels.net/"><img src="https://cdn.jim-nielsen.com/macos/512/swift-playgrounds-2020-02-14.png" align="center" width=150/></a>
 </p>
 <div align="center">
   <sub><em>TerraRebels</em></sub>
