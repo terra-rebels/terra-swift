@@ -36,7 +36,7 @@ The Official Swift SDK for the Terra Ecosystem (LUNC/USTC/LUNA2)
   <a href="https://github.com/terra-rebels/Terra-Sharp">GitHub</a>
 </p>
 
-TerraSharp is a C# SDK for writing applications that interact with the Terra blockchain from either the Web or Mobile, or .net environments and provides simple abstractions over core data structures, serialization, key management, and API request generation.
+TerraSharp is a Swift SDK for writing applications that interact with the Terra blockchain for Mac & iOS environments and provides simple abstractions over core data structures, serialization, key management, and API request generation.
 
 ## Features
 
